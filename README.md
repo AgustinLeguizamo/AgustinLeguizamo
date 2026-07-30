@@ -1,16 +1,41 @@
-## Hi there 👋
+```
+Agustín :: Software Development & Cybersecurity
+```
 
-<!--
-**AgustinLeguizamo/AgustinLeguizamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`Technology Enthusiast` · `Cybersecurity` · `Software Development`
 
-Here are some ideas to get you started:
+`eJPT — in progress` · `English — B2 (Cambridge FCE)`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### about
+
+Programming student at UTN (Tecnicatura Universitaria en Programación),
+Argentina, studying cybersecurity independently — solving HackTheBox
+machines daily and documenting the process. Currently preparing the
+eJPT certification, with more advanced certifications planned further
+down the road.
+
+---
+
+### profiles
+
+- [HackTheBox](https://app.hackthebox.com/public/users/2977063)
+- [TryHackMe](https://tryhackme.com/p/agustin20l) — completed the *Junior Penetration Tester* path
+
+---
+
+### projects
+
+**[Dep-Watch](https://dep-watch-project.vercel.app/index.html)**
+Dependency vulnerability lookup tool consuming Google's OSV API.
+`JavaScript` `REST API`
+
+---
+
+### repositories
+
+*(coming soon)*
+
+- machines-writeups — technical write-ups of machines that i work through
+- security-scripts —  tooling for recon, enumeration, automation and other stuff
