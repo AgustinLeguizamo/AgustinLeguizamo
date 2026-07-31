@@ -11,8 +11,7 @@ Agustín :: Software Development & Cybersecurity
 ### about
 
 Programming student at UTN (Tecnicatura Universitaria en Programación),
-Argentina, studying cybersecurity independently — solving HackTheBox
-machines daily and documenting the process. Currently preparing the
+Argentina, studying cybersecurity independently — solving machines daily and documenting the process. Currently preparing the
 eJPT certification, with more advanced certifications planned further
 down the road.
 
