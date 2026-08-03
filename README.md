@@ -11,7 +11,8 @@ Agustín :: Software Development & Cybersecurity
 ### about
 
 Programming student at UTN (Tecnicatura Universitaria en Programación),
-Argentina, studying cybersecurity independently — solving machines daily and documenting the process. Currently preparing the
+Argentina, studying cybersecurity independently — solving HackTheBox
+machines daily and documenting the process. Currently preparing the
 eJPT certification, with more advanced certifications planned further
 down the road.
 
@@ -47,7 +48,5 @@ Dependency vulnerability lookup tool consuming Google's OSV API.
 
 ### repositories
 
-*(coming soon)*
-
-- machines-writeups — technical write-ups of machines that i work through
-- security-scripts — scripts tooling for recon, enumeration, automation and other stuff
+- [htb-writeups](https://github.com/AgustinLeguizamo/htb-writeups) — technical write-ups of retired HackTheBox machines
+- security-scripts *(coming soon)* — Python tooling for recon, enumeration, and automation
